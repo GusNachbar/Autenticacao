@@ -1,10 +1,10 @@
-package com.learning.autenticacao;
+package com.learning.autentica;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AutenticacaoApplicationTests {
+class AutenticaApplicationTests {
 
 	@Test
 	void contextLoads() {
